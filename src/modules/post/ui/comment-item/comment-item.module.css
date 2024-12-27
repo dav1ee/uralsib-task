@@ -1,0 +1,11 @@
+.root {
+  padding-bottom: 12px;
+}
+
+.root:not(:last-child) {
+  border-bottom: 1px solid #444;
+}
+
+.author {
+  color: #c5c5c5;
+}
